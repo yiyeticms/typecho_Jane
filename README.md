@@ -48,6 +48,14 @@
 
 更改部分文章页模板样式
 
+2017年2月26日更新1.2版本
+
+新增评论模板
+
+新增评论框样式
+
+替换掉多说评论框
+
 # 预览图
 
 ![image](https://github.com/yiyeticms/typecho_Jane/blob/master/screenshot.png)
