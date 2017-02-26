@@ -4,7 +4,7 @@
  * 
  * @package Jane Theme 
  * @author 一夜涕
- * @version 1.1
+ * @version 1.2
  * @link http://yiyeti.cc
  */
 
